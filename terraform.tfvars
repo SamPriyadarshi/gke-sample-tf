@@ -1,0 +1,7 @@
+project_id="apigee-anthos-tenant-1"
+region="us-central1"
+network="default"
+subnetwork="default"
+ip_range_pods="subnet-pods"
+ip_range_services="subnet-services"
+compute_engine_service_account="854629698125-compute@developer.gserviceaccount.com"
